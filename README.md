@@ -2,7 +2,7 @@
 
 A two-player Battleship game in C for the TI MSPM0G3507 microcontroller. It uses an ST7735 LCD and physical controls for ship placement and turn-based play, with English and Spanish text.
 
-I built this for ECE 319K at UT Austin. My project work included programming the game controller and designing and soldering custom boards for the buttons, LCD, LEDs, and speaker.
+My project work included programming the game controller and designing and soldering custom boards for the buttons, LCD, LEDs, and speaker.
 
 ## How the game works
 
